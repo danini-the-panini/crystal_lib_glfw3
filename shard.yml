@@ -1,0 +1,13 @@
+name: lib_glfw3
+version: 0.1.0
+
+authors:
+  - Daniel Smith <jellymann@gmail.com>
+
+description: |
+  libglfw3 bindings for Crystal
+
+libraries:
+  libglfw3: ~> 3.1
+
+license: MIT
