@@ -1,6 +1,6 @@
 # Crystal LibGLFW3
 
-libglfw3 bindings for Crystal
+libglfw3 bindings for Crystal. See also my [Idiomatic API](https://github.com/jellymann/crystal_glfw) which makes these bindings more accessible for Crystalists.
 
 ## Installation
 
