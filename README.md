@@ -59,6 +59,14 @@ else
 end
 ```
 
+
+## See Also
+
+1. [LibGL bindings for Crystal](https://github.com/jellymann/crystal_lib_gl)
+2. [Idiomatic Crystal API for GLFW](https://github.com/jellymann/crystal_glfw) (makes lib_glfw3 nicer to work with)
+3. [Crystal OpenGL Samples](https://github.com/jellymann/crystal_opengl_samples)
+
+
 ## Contributing
 
 1. Fork it ( https://github.com/jellymann/crystal_lib_glfw3/fork )
